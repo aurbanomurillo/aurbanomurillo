@@ -1,6 +1,6 @@
 # Hi, I'm Antonio 👋
 
-**Software Engineer** | Building robust and scalable solutions
+**Mathematical Engineering & AI student at Comillas ICAI** | Building robust and scalable solutions
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
