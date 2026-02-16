@@ -1,39 +1,35 @@
-<div align="center">
-  
-![Header](https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif)
+# Hi, I'm Antonio 👋
 
-</div>
+**Software Engineer** | Building robust and scalable solutions
 
-# ✩ Antonio Urbano Murillo ✩
-
-<div align="center">
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:aurbanomurillo@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-urbano-murillo/)](https://www.linkedin.com/in/antonio-urbano-murillo/)
-
-</div>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ---
 
-### Lenguajes de programación y otras herramientas con las que he trabajado:
+## What I'm Working On
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-</p>
+- 🔨 Building full-stack applications with modern web technologies
+- 🌱 Learning and exploring new frameworks and tools
+- 🚀 Contributing to open-source projects
+- 💡 Solving complex technical challenges
 
----
+## Tech Stack
 
-<div align="center">
-  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=aurbanomurillo&count_private=true&show_icons=true&theme=cobalt)
+**Languages:** Python, JavaScript/TypeScript, Java  
+**Frontend:** React, HTML5, CSS3  
+**Backend:** Node.js, Express  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Tools:** Git, Docker, VS Code  
 
-</div>
+## Philosophy
+
+> "Clean code always looks like it was written by someone who cares." - Building software that matters, one commit at a time.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/antonio-urbano-murillo/) • [Email](mailto:aurbanomurillo@gmail.com) • [GitHub](https://github.com/aurbanomurillo)
