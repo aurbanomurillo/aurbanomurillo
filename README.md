@@ -16,7 +16,7 @@
 
 ## Tech Stack
 
-**Languages:** Python, Java, MATLAB
+**Languages:** Python, Java, MATLAB  
 **Databases:** MySQL  
 **Tools:** Git, VS Code, BlueJ 
 
